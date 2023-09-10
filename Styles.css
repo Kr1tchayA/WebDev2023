@@ -1,0 +1,31 @@
+.profile {
+    border-radius: 10%;
+}
+.table1 {
+    border: solid red 1px;
+}
+p {
+    color: rgb(255, 255, 255);
+}
+.table2 {
+    border: dashed rgb(154, 0, 0) 2px;
+}
+h3 {
+    color: #7F2A3C;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/e2/ab/1c/e2ab1c25a668f65fdb59232fba7fea71.jpg);
+;
+background-repeat: no-repeat;
+-webkit-background-size: cover;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+h1 , li {
+    color: #7F2A3C;
+}
+
+th , td , li {
+    color: antiquewhite;
+}
